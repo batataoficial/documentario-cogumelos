@@ -6,7 +6,7 @@
 
 Explore o universo fascinante dos cogumelos com um site de alta qualidade, performance e estilo. Este projeto foi desenvolvido com React + Vite, focado em acessibilidade, velocidade e design moderno.
 
-🔗 Acesse agora: documentario-cogumelo.netlify.app
+🔗 Acesse agora: https://documentario-cogumelo.netlify.app
 
 ---
 
